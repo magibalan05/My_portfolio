@@ -19,7 +19,7 @@ A personal portfolio website showcasing my profile, projects, and contact detail
 ### Running Locally  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/portfolio.git
+   git clone https://github.com/magibalan05/My_portfolio.git
    cd portfolio/exp_1
    ```
 2. Open `index.html` in your browser.  
@@ -34,8 +34,7 @@ exp_1/
 ├── projects.html   # Projects showcase
 ├── contact.html    # Contact page
 ├── styles.css      # Main stylesheet
-└── images/
-    └── magi profile.png  # Profile picture
+└── magi profile.png  # Profile picture
 ```
 
 ## ✨ Future Improvements  
